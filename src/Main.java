@@ -13,6 +13,9 @@ public class Main {
                             Escriba 3 para dibujar emoji de corazón
                             Escriba 4 para dibujar emoji sacando la lengua
                             Escriba 5 para dibujar emoji triste
+                            Escriba 6 para dibujar emoji guiñando el ojo
+                            Escriba 7 para dibujar emoji enojado
+                            Escriba 8 para dibujar emoji feliz al revés
                             Escriba 13 para salir
                             """);
             opcion=Integer.parseInt(entrada);
