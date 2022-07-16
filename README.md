@@ -12,7 +12,7 @@ Jhon Torres.
 ## FUNCIONALIDAD
 
 # 1. Despliegue del menú de opciones iterable (a modificar img ↓)
-<img width="201" alt="image" src="https://user-images.githubusercontent.com/85601974/179374271-0381883f-72b1-48d5-8fc6-51e26ef20967.png">
+<img width="201" alt="image" src="https://user-images.githubusercontent.com/85601974/179375024-aab6b642-7165-488e-b4fe-8056127010fc.png">
 
 # 2. Elección de opciones (cada opcion tiene un delay de 500 milis)
   - Opc 1
@@ -31,6 +31,8 @@ Jhon Torres.
   <img width="144" alt="image" src="https://user-images.githubusercontent.com/85601974/179374334-efa2551c-8edd-4a0f-a125-463e996fad42.png">
   - Opc 8
   <img width="144" alt="image" src="https://user-images.githubusercontent.com/85601974/179374356-c3ee2d78-5853-4b3b-832d-089a98bf6e4e.png">
+  - Opc 9
+  <img width="144" alt="image" src="https://user-images.githubusercontent.com/85601974/179375044-b2405673-4284-4fe4-8656-0fd008bd7026.png">
 
 
   ...
