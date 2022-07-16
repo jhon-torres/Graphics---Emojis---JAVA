@@ -16,6 +16,7 @@ public class Main {
                             Escriba 6 para dibujar emoji guiñando el ojo
                             Escriba 7 para dibujar emoji enojado
                             Escriba 8 para dibujar emoji feliz al revés
+                            Escriba 9 para dibujar emoji dando beso
                             Escriba 13 para salir
                             """);
             opcion=Integer.parseInt(entrada);
