@@ -1,17 +1,20 @@
-### Graphics---Emojis---JAVA
+# Graphics---Emojis---JAVA
 Graficas de emojis en JAVA 
 
-Integrantes 
+## Integrantes 
+
 Camila Mier
+
 Felipe Pazmiño
-Jhon Torres
 
-##FUNCIONALIDAD
+Jhon Torres.
 
-#1. Despliegue del menú de opciones iterable (a modificar img ↓)
+## FUNCIONALIDAD
+
+# 1. Despliegue del menú de opciones iterable (a modificar img ↓)
 <img width="201" alt="image" src="https://user-images.githubusercontent.com/38541491/179367221-039ba9a2-247d-4152-8e64-c5515f1a615e.png">
 
-#2. Elección de opciones (cada opcion tiene un delay de 500 milis)
+# 2. Elección de opciones (cada opcion tiene un delay de 500 milis)
   - Opc 1
    <img width="147" alt="image" src="https://user-images.githubusercontent.com/38541491/179367349-7ba6d541-bb8a-48a8-aafa-1e68de7bb2f8.png">
   - Opc 2
@@ -24,8 +27,10 @@ Jhon Torres
   <img width="144" alt="image" src="https://user-images.githubusercontent.com/38541491/179367390-16eff6f4-56ff-4f03-b874-16afc4798df8.png">
   -Opc 6 
   ...
+  
   -Opc fuera de rango
   <img width="134" alt="image" src="https://user-images.githubusercontent.com/38541491/179367420-fbad6b7c-7ada-4646-bbbb-4dca6f2626dd.png">
+  
   -Opc 13 (Cierre del programa)
   <img width="134" alt="image" src="https://user-images.githubusercontent.com/38541491/179367436-aff260f8-2ea8-4c42-9bc5-75251ae12ffd.png">
 
