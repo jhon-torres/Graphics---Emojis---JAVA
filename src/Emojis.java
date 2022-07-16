@@ -175,6 +175,22 @@ public class Emojis extends JPanel{
                 g.fillOval( 65, 60, 100, 45 );
                 break;
 
+            case 9:
+                /* EMOJI DANDO UN BESO */
+
+                // CARA
+                g.setColor( Color.YELLOW );
+                g.fillOval( 10, 10, 200, 200 );
+                // OJOS
+                g.setColor( Color.BLACK );
+                g.fillOval( 75, 75, 20, 30 );
+                g.fillOval( 135, 75, 20, 30 );
+                // BOCA
+                int [] X={110,140,120,140,110};
+                int [] Y={130,140,150,160,170};
+                g.drawPolyline(X,Y,5);
+                break;
+
 
 
 
