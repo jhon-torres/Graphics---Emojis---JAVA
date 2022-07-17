@@ -63,31 +63,31 @@ Jhon Torres.
     <img width="144" alt="image" src="https://user-images.githubusercontent.com/85601974/179375044-b2405673-4284-4fe4-8656-0fd008bd7026.png">
     </p>
   
-  -Opción 10
+  - Opción 10
     <p align="center"> 
     <img width="144" alt="image" src="">
     </p>
     
-  -Opción 11
+  - Opción 11
     <p align="center"> 
     <img width="144" alt="image" src="">
     </p>
 
-  -Opción 12
+  - Opción 12
     <p align="center"> 
     <img width="144" alt="image" src="">
     </p>
 
   ...
   
-  -Opción fuera de rango
+  - Opción fuera de rango
     <p align="center"> 
     <img width="134" alt="image" src="https://user-images.githubusercontent.com/38541491/179367420-fbad6b7c-7ada-4646-bbbb-4dca6f2626dd.png">
     </p>
   
-  -Opción 13 (Cierre del programa)
+  - Opción 13 (Cierre del programa)
     <p align="center"> 
-   <img width="134" alt="image" src="https://user-images.githubusercontent.com/38541491/179367436-aff260f8-2ea8-4c42-9bc5-75251ae12ffd.png">
+    <img width="134" alt="image" src="https://user-images.githubusercontent.com/38541491/179367436-aff260f8-2ea8-4c42-9bc5-75251ae12ffd.png">
     </p>
   
 
