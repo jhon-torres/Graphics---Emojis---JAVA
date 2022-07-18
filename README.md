@@ -1,5 +1,5 @@
 # Graphics---Emojis---JAVA
-Graficas de emojis en JAVA 
+Graficación de emojis en JAVA 
 
 ## Integrantes 
 
@@ -11,35 +11,83 @@ Jhon Torres.
 
 ## FUNCIONALIDAD
 
-# 1. Despliegue del menú de opciones iterable (a modificar img ↓)
-<img width="201" alt="image" src="https://user-images.githubusercontent.com/85601974/179375024-aab6b642-7165-488e-b4fe-8056127010fc.png">
+### 1. Despliegue del menú de opciones iterable (a modificar img ↓)
+<p align="center"> 
+<img width="301" height="300" alt="image" src="https://user-images.githubusercontent.com/85601974/179375024-aab6b642-7165-488e-b4fe-8056127010fc.png">
+</p>
 
-# 2. Elección de opciones (cada opcion tiene un delay de 500 milis)
-  - Opc 1
-   <img width="147" alt="image" src="https://user-images.githubusercontent.com/38541491/179367349-7ba6d541-bb8a-48a8-aafa-1e68de7bb2f8.png">
-  - Opc 2
-  <img width="144" alt="image" src="https://user-images.githubusercontent.com/38541491/179367339-f04cac9a-96aa-41f6-99c2-efbf7eccac0a.png">
-  - Opc 3
-  <img width="144" alt="image" src="https://user-images.githubusercontent.com/38541491/179367368-87f345b2-e32b-4887-bf2e-28ce27dc020e.png">
-  - Opc 4
-  <img width="144" alt="image" src="https://user-images.githubusercontent.com/38541491/179367381-9f778851-9e4f-4784-8e6e-c020690b41be.png">
-  - Opc 5
-  <img width="144" alt="image" src="https://user-images.githubusercontent.com/38541491/179367390-16eff6f4-56ff-4f03-b874-16afc4798df8.png">
-  - Opc 6 
-  <img width="144" alt="image" src="https://user-images.githubusercontent.com/85601974/179374314-7d9a39cc-4d10-4beb-b509-2fd45bd8512f.png">
-  - Opc 7 
-  <img width="144" alt="image" src="https://user-images.githubusercontent.com/85601974/179374334-efa2551c-8edd-4a0f-a125-463e996fad42.png">
-  - Opc 8
-  <img width="144" alt="image" src="https://user-images.githubusercontent.com/85601974/179374356-c3ee2d78-5853-4b3b-832d-089a98bf6e4e.png">
-  - Opc 9
-  <img width="144" alt="image" src="https://user-images.githubusercontent.com/85601974/179375044-b2405673-4284-4fe4-8656-0fd008bd7026.png">
+### 2. Elección de opciones (cada opcion tiene un delay de 500 milis)
+  - Opción 1
+    <p align="center"> 
+    <img width="250" height="250" alt="image" src="https://user-images.githubusercontent.com/38541491/179367349-7ba6d541-bb8a-48a8-aafa-1e68de7bb2f8.png">
+    </p>
+   
+  - Opción 2
+    <p align="center"> 
+    <img width="144" alt="image" src="https://user-images.githubusercontent.com/38541491/179367339-f04cac9a-96aa-41f6-99c2-efbf7eccac0a.png">
+    </p>
+    
+  - Opción 3
+    <p align="center"> 
+    <img width="144" alt="image" src="https://user-images.githubusercontent.com/38541491/179367368-87f345b2-e32b-4887-bf2e-28ce27dc020e.png">
+    </p>
+  
+  
+  - Opción 4
+    <p align="center"> 
+    <img width="144" alt="image" src="https://user-images.githubusercontent.com/38541491/179367381-9f778851-9e4f-4784-8e6e-c020690b41be.png">
+    </p>
+  
+  - Opción 5
+    <p align="center"> 
+    <img width="144" alt="image" src="https://user-images.githubusercontent.com/38541491/179367390-16eff6f4-56ff-4f03-b874-16afc4798df8.png">
+    </p>
+  
+  - Opción 6 
+    <p align="center"> 
+    <img width="144" alt="image" src="https://user-images.githubusercontent.com/85601974/179374314-7d9a39cc-4d10-4beb-b509-2fd45bd8512f.png">
+    </p>
+  
+  - Opción 7
+    <p align="center"> 
+    <img width="144" alt="image" src="https://user-images.githubusercontent.com/85601974/179374334-efa2551c-8edd-4a0f-a125-463e996fad42.png">
+    </p> 
+  
+  - Opción 8
+    <p align="center"> 
+    <img width="144" alt="image" src="https://user-images.githubusercontent.com/85601974/179374356-c3ee2d78-5853-4b3b-832d-089a98bf6e4e.png">
+    </p>
 
+  - Opción 9
+    <p align="center"> 
+    <img width="144" alt="image" src="https://user-images.githubusercontent.com/85601974/179375044-b2405673-4284-4fe4-8656-0fd008bd7026.png">
+    </p>
+  
+  - Opción 10
+    <p align="center"> 
+    <img width="144" alt="image" src="">
+    </p>
+    
+  - Opción 11
+    <p align="center"> 
+    <img width="144" alt="image" src="">
+    </p>
+
+  - Opción 12
+    <p align="center"> 
+    <img width="144" alt="image" src="">
+    </p>
 
   ...
   
-  -Opc fuera de rango
-  <img width="134" alt="image" src="https://user-images.githubusercontent.com/38541491/179367420-fbad6b7c-7ada-4646-bbbb-4dca6f2626dd.png">
+  - Opción fuera de rango
+    <p align="center"> 
+    <img width="134" alt="image" src="https://user-images.githubusercontent.com/38541491/179367420-fbad6b7c-7ada-4646-bbbb-4dca6f2626dd.png">
+    </p>
   
-  -Opc 13 (Cierre del programa)
-  <img width="134" alt="image" src="https://user-images.githubusercontent.com/38541491/179367436-aff260f8-2ea8-4c42-9bc5-75251ae12ffd.png">
+  - Opción 13 (Cierre del programa)
+    <p align="center"> 
+    <img width="134" alt="image" src="https://user-images.githubusercontent.com/38541491/179367436-aff260f8-2ea8-4c42-9bc5-75251ae12ffd.png">
+    </p>
+  
 
