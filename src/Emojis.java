@@ -51,26 +51,13 @@ public class Emojis extends JPanel{
                 // CORAZON
                 g.setColor( Color.RED);
 
-                // PUNTOS DE LINES
-                /*
-                (X1, Y1) (X2, Y2)
-                (130, 75) (100, 75)
-                (100, 75) (70, 105)
-                (70, 105) (70, 125)
-                (70, 125) (90, 145)
-                (90, 145) (140, 185)
-                (140, 185) (190, 145)
-                (190, 145) (210, 125)
-                (210, 125) (210, 105)
-                (210, 105) (190, 75)
-                (190, 75) (160, 75)
-                (160, 75) (140, 105)
-                (140, 105) (130, 75)
-                */
-                int[] puntosX = {130, 100, 70, 70, 90, 140, 190, 210, 210, 190, 160, 140};
-                int[] puntosY = {75, 75, 105, 125, 145, 185, 145, 125, 105, 75, 75, 105};
-
-                g.fillPolygon(puntosX, puntosY, 12);
+                //Puntos en X
+                int [] XC={154,160,166,171,177,184,190,195,200,205,210,215,220,224,228,230,232,232,229,226,220,215,208,199,189,180,170,161,154,
+                143,132,123,113,107,100,95,89,84,80,77,76,80,85,92,100,106,112,119,125,131,137,142,148};
+                //Puntos en Y
+                int [] YC={91,86,81,77,75,73,73,73,74,76,79,82,87,92,97,106,114,124,134,141,147,153,159,167,174,182,189,194,198,191,185,178,
+                170,165,160,155,150,144,137,125,113,100,92,83,80,76,75,73,74,76,77,81,85};
+                g.fillPolygon(XC,YC,53);
                 break;
             case 4:
                 //EMOJI SACANDO LENGUA
@@ -191,18 +178,57 @@ public class Emojis extends JPanel{
                 g.drawPolyline(X,Y,5);
                 break;
 
+            case 10:
+                // EMOJI ESTRELLA
+                //Puntos en X
+                int [] X1={117,136,156,218,167,187,136,88,107,55};
+                int [] X2={118,137,157,219,168,188,137,89,108,56};
+                //Puntos en Y
+                int [] Y1={110,45,109,109,149,218,182,219,148,110};
+                int [] Y2={111,46,110,110,150,219,183,220,149,111};
 
+                g.setColor( new Color(252,234,98) );
+                g.drawPolyline(X1,Y1,10);
+                g.fillPolygon(X2,Y2,10);
+                break;
 
+            case 11:
+                //EMOJI OJOS
+                g.setColor( Color.WHITE );
+                g.fillOval( 75, 75, 80, 160 );
+                g.fillOval( 155, 75, 80, 160 );
 
+                g.setColor( new Color(199,130,47) );
+                g.fillOval(72,126,57,57);
+                g.fillOval(155,126,57,57);
 
+                g.setColor( Color.BLACK );
+                g.fillOval(72,131,48,48);
+                g.fillOval(155,131,48,48);
 
+                g.setColor( Color.WHITE );
+                g.fillOval(86,131,10,10);
+                g.fillOval(169,131,10,10);
 
+                break;
 
+            case 12:
+                //EMOJI GOTAS
+                g.setColor(new Color(115,205,250) );
+                g.fillOval(83,130,55,55); //G1
+                g.fillOval(161,160,44,44); //G2
+                g.fillOval(165,76,51,51); //G3
 
-
-
-
-
+                int [] XG1={84,135,87};
+                int [] YG1={163,144,94};
+                g.fillPolygon(XG1,YG1,3);
+                int [] XG2={162,198,157};
+                int [] YG2={180,166,135};
+                g.fillPolygon(XG2,YG2,3);
+                int [] XG3={188,183,120};
+                int [] YG3={76,126,80};
+                g.fillPolygon(XG3,YG3,3);
+                break;
 
         }
     }
