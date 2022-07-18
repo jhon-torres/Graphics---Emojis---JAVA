@@ -1,4 +1,4 @@
-# Graphics---Emojis---JAVA
+# Emojis en Java
 Graficación de emojis en JAVA 
 
 ## Integrantes 
