@@ -11,31 +11,21 @@ Jhon Torres.
 
 ## FUNCIONALIDAD
 
-### 1. Despliegue del menú de opciones iterable (a modificar img ↓)
+### 1. Despliegue del menú de opciones iterable
 <p align="center"> 
-<img width="301" height="300" alt="image" src="https://user-images.githubusercontent.com/85601974/179375024-aab6b642-7165-488e-b4fe-8056127010fc.png">
+<img width="301" height="300" alt="image" src="Imagenes Deber/menu.jpeg">
 </p>
 
 ### 2. Elección de opciones (cada opcion tiene un delay de 500 milis)
-  - Opción 1
+  - Opción 1, 2 y 3
     <p align="center"> 
-    <img width="250" height="250" alt="image" src="https://user-images.githubusercontent.com/38541491/179367349-7ba6d541-bb8a-48a8-aafa-1e68de7bb2f8.png">
-    </p>
-   
-  - Opción 2
-    <p align="center"> 
-    <img width="144" alt="image" src="https://user-images.githubusercontent.com/38541491/179367339-f04cac9a-96aa-41f6-99c2-efbf7eccac0a.png">
-    </p>
-    
-  - Opción 3
-    <p align="center"> 
-    <img width="144" alt="image" src="https://user-images.githubusercontent.com/38541491/179367368-87f345b2-e32b-4887-bf2e-28ce27dc020e.png">
+    <img width="144" alt="image" src="Imagenes Deber/Op 1 2 3.png">
     </p>
   
   
   - Opción 4
     <p align="center"> 
-    <img width="144" alt="image" src="https://user-images.githubusercontent.com/38541491/179367381-9f778851-9e4f-4784-8e6e-c020690b41be.png">
+    <img width="250" alt="image" src="https://user-images.githubusercontent.com/38541491/179367381-9f778851-9e4f-4784-8e6e-c020690b41be.png">
     </p>
   
   - Opción 5
